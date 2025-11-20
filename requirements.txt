@@ -1,0 +1,11 @@
+# CMK 141-142 Tazminat Hesaplama Programı
+# Python gereksinimleri
+
+# Standart kütüphane kullanılmaktadır
+# Python 3.6 veya üzeri gereklidir
+
+# Ek paket gerekmez - sadece Python standart kütüphanesi kullanılmıştır:
+# - json
+# - datetime
+# - decimal
+# - os

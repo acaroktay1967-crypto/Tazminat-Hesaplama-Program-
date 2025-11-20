@@ -1,0 +1,49 @@
+{
+  "asgari_ucretler": {
+    "1995": 4.50,
+    "1996": 8.00,
+    "1997": 13.75,
+    "1998": 24.00,
+    "1999": 42.50,
+    "2000": 72.00,
+    "2001": 117.00,
+    "2002": 184.00,
+    "2003": 306.00,
+    "2004": 444.00,
+    "2005": 488.70,
+    "2006": 531.00,
+    "2007": 585.00,
+    "2008": 638.70,
+    "2009": 729.00,
+    "2010": 760.50,
+    "2011": 837.00,
+    "2012": 886.50,
+    "2013": 978.60,
+    "2014": 1071.00,
+    "2015": 1201.50,
+    "2016": 1647.00,
+    "2017": 1777.50,
+    "2018": 2029.50,
+    "2019": 2558.40,
+    "2020": 2943.00,
+    "2021": 3577.50,
+    "2022": 5004.00,
+    "2023": 8506.80,
+    "2024": 11402.40,
+    "2025": 17002.44
+  },
+  "yeni_turk_lirasi_donusum": {
+    "aciklama": "Tüm değerler yeni Türk Lirası (TL) cinsindendir. 1 Ocak 2005 tarihinde yapılan para reformunda 1 milyon eski lira = 1 yeni lira olmuştur.",
+    "donusum_yili": 2005
+  },
+  "yasal_faiz_oranlari": {
+    "2019": 0.115,
+    "2020": 0.10,
+    "2021": 0.125,
+    "2022": 0.20,
+    "2023": 0.295,
+    "2024": 0.40,
+    "2025": 0.24
+  },
+  "aciklama": "Bu veriler Çalışma ve Sosyal Güvenlik Bakanlığı tarafından belirlenen yıllık brüt asgari ücret tutarlarıdır. Tüm değerler yeni Türk Lirası (TL) cinsindendir."
+}
